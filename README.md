@@ -12,8 +12,6 @@ The SQL queries were executed in the database environment during the analysis pr
 - Visualization: Power BI
 - Focus: Sales performance analysis
 
----
-
 ### 📈 Key Insights
 - Overview of total sales and customers
 - Monthly sales trends
@@ -21,14 +19,10 @@ The SQL queries were executed in the database environment during the analysis pr
 - Customer distribution by gender
 - Sales performance by state
 
----
-
 ### 🛠 Tools & Technologies
 - Power BI
 - PostgreSQL
 - SQL
-
----
 
 ### 🔗 Links
 - Behance case study: *link aqui*
