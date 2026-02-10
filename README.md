@@ -1,4 +1,4 @@
-![Dashboard Preview](dashboard-preview.png)
+📊 Sales Performance Dashboard
 
 This project presents a **Sales Performance Dashboard** developed in **Power BI**, using data extracted from a **PostgreSQL database**.
 
