@@ -25,4 +25,4 @@ SQL queries were executed directly in the database environment during the analys
 
 ### Links
 - Behance case study: https://www.behance.net/gallery/243917745/Sales-Performance-Dashboard-Data-Visualization
-- LinkedIn post: Coming soon
+- LinkedIn post: https://www.linkedin.com/posts/juliadsribeiro_powerbi-postgresql-sql-activity-7427130551632969729-tkui
