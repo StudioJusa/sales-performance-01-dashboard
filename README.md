@@ -6,24 +6,24 @@ The SQL queries were executed in the database environment during the analysis pr
 
 ---
 
-### 🔍 Project Overview
+### Project Overview
 - Data source: PostgreSQL database
 - Data extraction: SQL (executed in database environment)
 - Visualization: Power BI
 - Focus: Sales performance analysis
 
-### 📈 Key Insights
+### Key Insights
 - Overview of total sales and customers
 - Monthly sales trends
 - Highest and lowest sales values
 - Customer distribution by gender
 - Sales performance by state
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 - Power BI
 - PostgreSQL
 - SQL
 
-### 🔗 Links
-- Behance case study: *link aqui*
+### Links
+- Behance case study: https://www.behance.net/gallery/243917745/Sales-Performance-Dashboard-Data-Visualization
 - LinkedIn post: *link aqui*
